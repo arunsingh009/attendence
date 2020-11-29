@@ -1,0 +1,7 @@
+#navbar{
+    height: 57px;
+    margin-top: 17px;
+}
+#navbar ul li a{
+    border-radius: 10px;
+}
